@@ -65,7 +65,7 @@ function RequestPage() {
           </span>
           <h1 className="mt-5 text-2xl font-bold">Өтінімді қабылданды!</h1>
           <p className="mt-3 text-muted-foreground">
-            Сіздің өтінімініз модерация сатысында. Жақын арада еріктілер сізбен байланысады.
+            Жақын арада еріктілер сізбен байланысады.
           </p>
           <p className="mt-2 text-sm text-muted-foreground">
             Өтінім нөмірі: <span className="font-semibold text-foreground">REQ-{Math.floor(1000 + Math.random() * 9000)}</span>

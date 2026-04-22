@@ -69,7 +69,7 @@ function VolunteerPage() {
           </span>
           <h1 className="mt-5 text-2xl font-bold">Қош келдіңіз!</h1>
           <p className="mt-3 text-muted-foreground">
-            Тіркеуіңізді алдық. Email арқылы келесі қадамдар туралы хабарлама жіберілді.
+            Email арқылы келесі қадамдар туралы хабарлама жіберілді.
           </p>
         </div>
       </div>

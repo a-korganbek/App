@@ -70,10 +70,8 @@ function HomePage() {
                 </div>
                 <div className="mt-5 space-y-3">
                   {[
-                    { name: "Айгүл С.", action: "азық-түлік себетін алды", time: "5 мин бұрын", icon: "🍞" },
-                    { name: "Серік Қ.", action: "дәрі-дәрмекпен қамтылды", time: "12 мин бұрын", icon: "🩺" },
-                    { name: "Мадина Б.", action: "балаға киім алды", time: "28 мин бұрын", icon: "🧥" },
-                    { name: "Нұрлан Т.", action: "оқулықтар алды", time: "1 сағ бұрын", icon: "📚" },
+                    { name: "Ержан М.", action: "Балалар үйіне кітаптар алды", time: "5 мин бұрын", icon: "📚" },
+                    { name: "Мадина Б.", action: "балаға киім алды", time: "28 мин бұрын", icon: "🧥" },                   
                   ].map((item) => (
                     <div key={item.name} className="flex items-center gap-3 rounded-xl bg-muted/60 p-3">
                       <span className="flex h-10 w-10 items-center justify-center rounded-lg bg-card text-lg">

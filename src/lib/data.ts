@@ -11,7 +11,7 @@ export const categoryMeta: Record<HelpCategory, { label: string; emoji: string; 
   food: { label: "Азық-түлік", emoji: "🍞", description: "Тағам себеттері, ыстық тамақ, балаларға арналған тамақтану." },
   clothing: { label: "Киім", emoji: "🧥", description: "Маусымдық киімдер, аяқ киім, балаларға арналған заттар." },
   housing: { label: "Тұрғын үй", emoji: "🏠", description: "Уақытша баспана, жөндеу жұмыстары, коммуналдық төлем." },
-  medical: { label: "Медициналық", emoji: "🩺", description: "Дәрі-дәрмек, ем-шара, мүгедектік құралдары." },
+  medical: { label: "Медициналық", emoji: "🩺", description: "Дәрі-дәрмек, ем-шара, мүгедектерге арналған құралдар." },
   education: { label: "Білім беру", emoji: "📚", description: "Оқу құралдары, курстар, репетитор қызметі." },
   
 };
